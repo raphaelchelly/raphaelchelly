@@ -11,4 +11,3 @@ I'm a digital marketing guy who codes a bit.
 
 [My personal website](https://raphaelchelly.com)
 [@raphael_chelly on Twitter →](https://twitter.com/raphael_chelly)
-
