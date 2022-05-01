@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Raph 👋
 
-
-A digital marketing guy who codes a bit.
+I'm a digital marketing guy who codes a bit.
 
 - 👨🏽‍💻 I'm currently working as marketing project manager [@Octopia](https://www.octopia.com)
 - 🚀 ex Marketing [@Microsoft](https://github.com/microsoft). & [@PernodRicard](https://www.pernod-ricard.com/en)
